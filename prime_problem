@@ -1,3 +1,4 @@
+
 function prime(n){
 	    let factor=0;
 	for(let i=1;i<=n;i++){
